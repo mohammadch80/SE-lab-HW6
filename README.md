@@ -21,6 +21,7 @@ Reza Alipour - 98105932
 <p dir="rtl"  style='text-align: right;'>
 به شکل مشابه برای الگوی prototype این مراحل را تکرار می‌کنیم. یعنی ابتدا توابع تست را پیاده‌سازی می‌کنیم. با اجرای آن به خطای کامپایل می‌رسیم. سپس به خطای اجرا می‌خوریم. با تکمیل کلاس‌ها تست‌ها با موفقیت اجرا می‌شوند.
 </p>
+
 ![1402-02-25 00 20 00](https://github.com/mohammadch80/SE-lab-HW6/assets/58528991/73676cfa-9aec-43e8-ac6a-467fb20f8429)
 ![1402-02-25 00 19 42](https://github.com/mohammadch80/SE-lab-HW6/assets/58528991/505f4c41-bd2a-4a26-9f35-9f250f80f91f)
 ![1402-02-25 00 19 54](https://github.com/mohammadch80/SE-lab-HW6/assets/58528991/6389bdf2-1f78-42c2-b514-8c62bbf058a0)
