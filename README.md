@@ -3,6 +3,22 @@ Mohammad Cheraghi - 98105676
 
 Reza Alipour - 98105932
 
+## گزارش آزمایش
+### پیاده‌سازی تست و اجرای آن
+<p dir="rtl"  style='text-align: right;'>
+  ابتدا تست‌ها را مینویسیم. با توجه به اینکه کلاس‌ها پیاده‌سازی نشده‌اند، در اجرای اول به خطای کامپایل میخوریم. سپس با پیاده سازی کلاس‌ها، به خطای زمان اجرا میرسیم. زیرا کلاس‌ها خواسته‌های مسئله را برآورده نمی‌کنند. در نهایت با اصلاح کلاس‌ها به نتیجه درست میرسیم. در ادامه تصاویر مربوط به این روند به ازای الگوهای builder و abstract factory آمده است.
+</p>
+
+![1402-02-24 23 54 48](https://github.com/mohammadch80/SE-lab-HW6/assets/58528991/89c74293-c933-41f9-84b0-620a4442def4)
+![1402-02-24 23 54 53](https://github.com/mohammadch80/SE-lab-HW6/assets/58528991/ab62691e-02b1-4474-817b-a28efa0427ad)
+![1402-02-24 23 54 57](https://github.com/mohammadch80/SE-lab-HW6/assets/58528991/47ae7101-b3fe-4d71-9f8c-31b6bbb18071)
+![1402-02-24 23 55 00](https://github.com/mohammadch80/SE-lab-HW6/assets/58528991/12b6801e-5bff-496f-b45c-f844b90bbfab)
+![1402-02-24 23 55 03](https://github.com/mohammadch80/SE-lab-HW6/assets/58528991/121a8dc5-3d8d-4e6d-96eb-df5b9dd0939b)
+![1402-02-24 23 55 07](https://github.com/mohammadch80/SE-lab-HW6/assets/58528991/65dc5c57-40ac-4ae3-97f5-d14b59bc6aa6)
+![1402-02-24 23 55 10](https://github.com/mohammadch80/SE-lab-HW6/assets/58528991/a9333c7a-4d96-4dad-a6b1-127d17aa8d1e)
+![1402-02-24 23 55 15](https://github.com/mohammadch80/SE-lab-HW6/assets/58528991/918062f9-77da-44bb-bcee-08e88d2d947b)
+
+
 ## پرسش‌ها:
 ### سوال 1:
 <p dir="rtl"  style='text-align: right;'>
